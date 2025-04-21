@@ -2,6 +2,13 @@
 
 AI Assignment Grader is a Python-based project designed to automate the grading process for assignments using artificial intelligence. This tool helps educators save time by providing a fast and consistent way to evaluate assignment submissions.
 
+![image](https://github.com/user-attachments/assets/677bf65b-95a8-4be7-a8a6-285f611525ec)
+![image](https://github.com/user-attachments/assets/cca24bd4-1a2b-410b-93fa-ec313ed31a78)
+![image](https://github.com/user-attachments/assets/15452bdc-8b6e-4881-8c09-f89c53266c92)
+![image](https://github.com/user-attachments/assets/2f2b0eee-044d-4644-8bc3-eb8ca7f793f8)
+
+
+
 ## Features
 
 - **Automated Grading:** Uses AI techniques to grade assignments based on predefined criteria.
