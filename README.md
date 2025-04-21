@@ -18,7 +18,7 @@ AI Assignment Grader is a Python-based project designed to automate the grading 
    cd AI_assignment_grader
    pip install -r requirements.txt
    python grader.py
-   
+   ```
 ## Project Structure
 grader.py: The main script for grading assignments.
 requirements.txt: Contains the list of dependencies required for the project.
